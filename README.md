@@ -7,6 +7,12 @@ licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 In
 
 Link: https://www.kaggle.com/datasets/rhuebner/human-resources-data-set?resource=download
 
+## Steps made
+1. Data Cleaning (Power Query)
+2. Transforming data from One Big Table to a Star Schema
+3. Data Modeling
+4. Data Visualization
+
 ## Data Model
 <img src = "https://github.com/user-attachments/assets/16852c8f-cffc-401c-9080-70c2d26d2072" width=800>
 
